@@ -1,0 +1,1 @@
+09-20-21: I learned how to use the LIMIT and OFFSET functions in SQL.
