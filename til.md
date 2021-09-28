@@ -9,3 +9,5 @@
 09-24-21: I learned how to do a self-join to get multiple sets of information from the same table.
 
 09-27-21: I learned how to use subqueries in MySQL.
+
+09-28-21: I learned how to use temporary tables and CASE statements.
