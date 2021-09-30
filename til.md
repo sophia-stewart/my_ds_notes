@@ -13,3 +13,5 @@
 09-28-21: I learned how to use temporary tables and CASE statements.
 
 09-29-21: I learned how to combine temporary tables and CASE statements to get the query results I needed.
+
+09-30-21: I learned how to create a jupyter notebook.
