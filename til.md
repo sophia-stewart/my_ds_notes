@@ -14,4 +14,6 @@
 
 09-29-21: I learned how to combine temporary tables and CASE statements to get the query results I needed.
 
-09-30-21: I learned how to create a jupyter notebook.
+09-30-21: I learned how to create a jupyter notebook. (also that baby Juni has teeth coming in! T^T)
+
+10-01-21: I learned about data types, variables, and operators in python. I learned how to use `.join()` , `.append()`, `.pop()`, `.split()`, and `.isdigit()`.
