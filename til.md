@@ -17,3 +17,7 @@
 09-30-21: I learned how to create a jupyter notebook. (also that baby Juni has teeth coming in! T^T)
 
 10-01-21: I learned about data types, variables, and operators in python. I learned how to use `.join()` , `.append()`, `.pop()`, `.split()`, and `.isdigit()`.
+
+10-04-21: I learned how to use while/for loops and continue/break.
+
+10-05-21: I learned how to use lambdas.
