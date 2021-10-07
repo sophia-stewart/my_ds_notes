@@ -23,3 +23,5 @@
 10-05-21: I learned how to use lambdas.
 
 10-06-21: I learned how to convert a string from 12-hour format to 24-hour format.
+
+10-07-21: I learned how to use imports.
