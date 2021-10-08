@@ -25,3 +25,5 @@
 10-06-21: I learned how to convert a string from 12-hour format to 24-hour format.
 
 10-07-21: I learned how to use imports.
+
+10-08-21: I learned how to specify a key for the min and max functions.
