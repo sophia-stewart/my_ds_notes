@@ -27,3 +27,11 @@
 10-07-21: I learned how to use imports.
 
 10-08-21: I learned how to specify a key for the min and max functions.
+
+10-12-21: I learned how to use matplotlib.
+
+10-13-21: I learned how to use numpy functions. And that numpy is pronounced "numb pie".
+
+10-14-21: I learned how to use pandas.
+
+10-15-21: I learned how to add labels to a graph using the pandas plot.bar() method.
