@@ -35,3 +35,5 @@
 10-14-21: I learned how to use pandas.
 
 10-15-21: I learned how to add labels to a graph using the pandas plot.bar() method.
+
+10-18-21: I learned how to run SQL queries using python+pandas.
