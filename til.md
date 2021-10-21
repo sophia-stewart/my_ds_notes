@@ -39,3 +39,7 @@
 10-18-21: I learned how to run SQL queries using python+pandas.
 
 10-19-21: I learned how to use .merge to join dataframes.
+
+10-20-21: I learned how to use seaborn.
+
+10-21-21: I learned how to adjust legend formatting with seaborn.
