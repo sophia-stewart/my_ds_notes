@@ -43,3 +43,7 @@
 10-20-21: I learned how to use seaborn.
 
 10-21-21: I learned how to adjust legend formatting with seaborn.
+
+10-22-21: I learned how to use new functions in a spreadsheet.
+
+10-25-21: I learned how to critique charts.
