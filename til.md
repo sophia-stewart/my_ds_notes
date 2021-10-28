@@ -47,3 +47,9 @@
 10-22-21: I learned how to use new functions in a spreadsheet.
 
 10-25-21: I learned how to critique charts.
+
+10-26-21: I learned how to use Trello.
+
+10-27-21: I learned how to get started in Tableau.
+
+10-28-21:
