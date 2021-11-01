@@ -52,4 +52,6 @@
 
 10-27-21: I learned how to get started in Tableau.
 
-10-28-21:
+10-28-21: I learned I should set a reminder to push to GitHub!
+
+11-01-21: 
