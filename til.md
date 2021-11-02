@@ -54,4 +54,6 @@
 
 10-28-21: I learned I should set a reminder to push to GitHub!
 
-11-01-21: 
+11-01-21: I learned how to do statistical simulations with python.
+
+11-02-21: I learned about probability distributions.
