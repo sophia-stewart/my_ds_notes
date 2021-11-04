@@ -57,3 +57,7 @@
 11-01-21: I learned how to do statistical simulations with python.
 
 11-02-21: I learned about probability distributions.
+
+11-03-21: I learned how to apply probability distribution methods to find solutions.
+
+11-04-21: I learned about hypothesis testing.
