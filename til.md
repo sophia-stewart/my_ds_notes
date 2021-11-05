@@ -61,3 +61,5 @@
 11-03-21: I learned how to apply probability distribution methods to find solutions.
 
 11-04-21: I learned about hypothesis testing.
+
+11-05-21: I learned about correlation.
