@@ -65,3 +65,5 @@
 11-05-21: I learned about correlation.
 
 11-08-21: I learned about chi square testing.
+
+11-09-21: I began learning about Classification in Machine Learning.
