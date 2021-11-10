@@ -67,3 +67,5 @@
 11-08-21: I learned about chi square testing.
 
 11-09-21: I began learning about Classification in Machine Learning.
+
+11-10-21: I learned how to clean and prepare data.
