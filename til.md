@@ -68,4 +68,6 @@
 
 11-09-21: I began learning about Classification in Machine Learning.
 
-11-10-21: I learned how to clean and prepare data.
+11-10-21: I learned how to acquire and prepare data.
+
+11-12-21: I learned how to do exploratory data analysis.
