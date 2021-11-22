@@ -71,3 +71,15 @@
 11-10-21: I learned how to acquire and prepare data.
 
 11-12-21: I learned how to do exploratory data analysis.
+
+11-15-21: I learned how to tidy data.
+
+11-16-21: I learned how to evaluate models.
+
+11-17-21: I learned how to use decision tree models.
+
+11-18-21: I learned how to use random forest modelss.
+
+11-19-21: I learned how to use K-Nearest Neighbor and Logistic Regression models.
+
+11-22-21: I learned what I need to do for my Classification project.
