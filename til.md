@@ -83,3 +83,19 @@
 11-19-21: I learned how to use K-Nearest Neighbor and Logistic Regression models.
 
 11-22-21: I learned what I need to do for my Classification project.
+
+11-23-21: I learned how I will proceed with my Classification project.
+
+11-29-21: I started learning about Regression.
+
+11-30-21: I learned how to scale data.
+
+12-01-21: I learned about Capstone presentations from Germain's presentations.
+
+12-02-21: I learned how to explore for regression modeling.
+
+12-06-21: I learned how to evaluate regression models.
+
+12-07-21: I learned how to do feature engineering.
+
+12-08-21: I learned how to model using regression.
